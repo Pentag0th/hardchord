@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hardchord", "hardchord.csproj", "{817A89A8-7E09-455E-914F-45B945D8FB9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817A89A8-7E09-455E-914F-45B945D8FB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817A89A8-7E09-455E-914F-45B945D8FB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817A89A8-7E09-455E-914F-45B945D8FB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817A89A8-7E09-455E-914F-45B945D8FB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F34CDF79-B87D-444E-A649-A25E1D4AC268}
+	EndGlobalSection
+EndGlobal
